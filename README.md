@@ -13,4 +13,4 @@
 7. ![1672149610122](https://user-images.githubusercontent.com/103982094/211246300-c5ba8afc-af7f-4294-8e0c-e8b74e83a129.png)
 8. ![1672236953671](https://user-images.githubusercontent.com/103982094/211246457-21e2ad05-b3b6-4973-880e-292435a7b68e.png)
 9. ![1672311857494](https://user-images.githubusercontent.com/103982094/211246583-6276e42f-e821-4662-9e05-fd9dd453e1a8.png)
-10.![1672581869716](https://user-images.githubusercontent.com/103982094/211246820-6b570b7a-6994-45eb-882a-19c1827f30a0.png)
+10. ![1672581869716](https://user-images.githubusercontent.com/103982094/211246820-6b570b7a-6994-45eb-882a-19c1827f30a0.png)
