@@ -3,3 +3,4 @@
  
  # Link
   https://datalemur.com?referralCode=zWGYDgxV
+ ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Data Science Skills.png?raw=true)
