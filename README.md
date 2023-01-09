@@ -20,3 +20,4 @@
 14. ![1672932503514](https://user-images.githubusercontent.com/103982094/211247284-193531ef-1757-4155-a048-ec0b5cdfe0d4.png)
 15. ![1673015112986](https://user-images.githubusercontent.com/103982094/211247544-478f35c3-4d27-4be7-bc2a-89e76cb8850a.png)
 16. ![1673102161210](https://user-images.githubusercontent.com/103982094/211247853-1aa42151-0725-4ce6-8972-97c8512e5e5c.png)
+17. ![Olympic Gold Medals Problem](https://user-images.githubusercontent.com/103982094/211247985-7d15da7b-820f-4615-810b-bd317f3acc13.png)
