@@ -1,5 +1,5 @@
 # SQL-Solutions
- This repository contain all the solutions of DataLemur SQL challenges With Code Snippets.
+ This repository contain all the solutions of SQL challenges With Code Snippets.
 
  
 1. ![1671643805067](https://user-images.githubusercontent.com/103982094/211244158-c8a83e05-a83b-43e8-b94e-e7c1757fc838.png)
@@ -20,3 +20,4 @@
 16. ![1673102161210](https://user-images.githubusercontent.com/103982094/211247853-1aa42151-0725-4ce6-8972-97c8512e5e5c.png)
 17. ![Olympic Gold Medals Problem](https://user-images.githubusercontent.com/103982094/211247985-7d15da7b-820f-4615-810b-bd317f3acc13.png)
 18. ![Pharmacy Analytics (Part 3)](https://user-images.githubusercontent.com/103982094/212479983-25b73f7c-e94c-4001-a07d-114a681efb8f.png)
+19. ![Patient Support Analysis (Part 1)](https://user-images.githubusercontent.com/103982094/212526753-c569a12a-38e9-4301-8325-152fb13800b6.png)
