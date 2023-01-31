@@ -2,6 +2,9 @@
  This repository contain all the solutions of SQL challenges With Code Snippets.
 
  
+![Employees Earning More ( LeetCode )](https://user-images.githubusercontent.com/103982094/215846522-4e2eefdd-bb68-484d-8701-1962870ce45c.png)
+
+
 1. ![Not Null Value](https://user-images.githubusercontent.com/103982094/214335474-ff7a7c44-1258-4a0c-9b67-1c671814f684.png)
 
 2. ![1671718784261](https://user-images.githubusercontent.com/103982094/211244667-ba74fdf6-0eb7-41bf-98d0-d4b19b17fcb5.png)  
