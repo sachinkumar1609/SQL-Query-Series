@@ -1,8 +1,10 @@
 # SQL-Solutions
  This repository contain all the solutions of SQL challenges With Code Snippets.
 
- 
+ ![Customers Without Orders ( StrataScratch )](https://user-images.githubusercontent.com/103982094/216073122-8f0345bd-8885-43c5-ae92-ae7da43d00da.png)
+
 ![Employees Earning More ( LeetCode )](https://user-images.githubusercontent.com/103982094/215846522-4e2eefdd-bb68-484d-8701-1962870ce45c.png)
+
 
  ![Not Null Value](https://user-images.githubusercontent.com/103982094/214335474-ff7a7c44-1258-4a0c-9b67-1c671814f684.png)
 
