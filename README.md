@@ -1,5 +1,10 @@
 # SQL-Solutions
  This repository contain all the solutions of SQL challenges With Code Snippets.
+ 
+ ![Fintech Startup Question](https://user-images.githubusercontent.com/103982094/228803165-415ff305-d8d7-49e2-ba93-1359bf69c74f.png)
+
+ 
+ 
 
  ![Customers Without Orders ( StrataScratch )](https://user-images.githubusercontent.com/103982094/216073122-8f0345bd-8885-43c5-ae92-ae7da43d00da.png)
 
