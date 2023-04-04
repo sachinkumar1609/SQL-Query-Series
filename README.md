@@ -10,6 +10,8 @@
 
 ![Employees Earning More ( LeetCode )](https://user-images.githubusercontent.com/103982094/215846522-4e2eefdd-bb68-484d-8701-1962870ce45c.png)
 
+![Finding User Purchases ( Stratascratch)](https://user-images.githubusercontent.com/103982094/215505060-122fc84e-8ff3-448c-b7a1-9eecc59fc914.png)
+
 
  ![Not Null Value](https://user-images.githubusercontent.com/103982094/214335474-ff7a7c44-1258-4a0c-9b67-1c671814f684.png)
  
