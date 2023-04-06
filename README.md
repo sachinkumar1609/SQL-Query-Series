@@ -6,7 +6,7 @@
  |Daywise| Blog |
 |-|-|
 |Day1 (Data Science Skills) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_sql-60daysofcodechallenge-60daysofsql-activity-7011382301850775552-ele8?utm_source=share&utm_medium=member_desktop)
-|Day2 (Page with No likes) | [Explanation Link}(https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7011696789795827712-OZe4?utm_source=share&utm_medium=member_desktop)
+|Day2 (Page with No likes) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7011696789795827712-OZe4?utm_source=share&utm_medium=member_desktop)
  
  ![Fintech Startup Question](https://user-images.githubusercontent.com/103982094/228803165-415ff305-d8d7-49e2-ba93-1359bf69c74f.png)
 
