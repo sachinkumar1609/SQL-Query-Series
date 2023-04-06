@@ -40,4 +40,9 @@
 19. ![Patient Support Analysis (Part 1)](https://user-images.githubusercontent.com/103982094/212526753-c569a12a-38e9-4301-8325-152fb13800b6.png)
 20. ![Patient Support Analysis (Part 2)](https://user-images.githubusercontent.com/103982094/212908833-4e74ead0-feb2-4bbd-a0b9-70ce925d173f.png)
 21. ![1671643805067](https://user-images.githubusercontent.com/103982094/211244158-c8a83e05-a83b-43e8-b94e-e7c1757fc838.png)
+
+|Daywise| Blog |
+|-|-|
+|Day1 (Data Science Skills) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_sql-60daysofcodechallenge-60daysofsql-activity-7011382301850775552-ele8?utm_source=share&utm_medium=member_desktop)
+
  
