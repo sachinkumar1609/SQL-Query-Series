@@ -10,6 +10,9 @@
 |Day3 (Tesla Unfinished Part) |[Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7012054438768963584-UZzN?utm_source=share&utm_medium=member_desktop)
 |Day4 (Laptop Vs Mobile Viewership) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7012425690746646528-1gpI?utm_source=share&utm_medium=member_desktop)
 |Day5 (Duplicated Job Listing) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7012800180013936640-Q5CD?utm_source=share&utm_medium=member_desktop)
+|Day6 (Average Post Hiatus ) [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7013144746709671936-iI4q?utm_source=share&utm_medium=member_desktop)
+ 
+ 
  
  ![Fintech Startup Question](https://user-images.githubusercontent.com/103982094/228803165-415ff305-d8d7-49e2-ba93-1359bf69c74f.png)
 
