@@ -10,7 +10,8 @@
 |Day3 (Tesla Unfinished Part) |[Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7012054438768963584-UZzN?utm_source=share&utm_medium=member_desktop)
 |Day4 (Laptop Vs Mobile Viewership) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7012425690746646528-1gpI?utm_source=share&utm_medium=member_desktop)
 |Day5 (Duplicated Job Listing) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7012800180013936640-Q5CD?utm_source=share&utm_medium=member_desktop)
-|Day6 (Average Post Hiatus ) [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7013144746709671936-iI4q?utm_source=share&utm_medium=member_desktop)
+|Day6 (Average Post Hiatus ) |[Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7013144746709671936-iI4q?utm_source=share&utm_medium=member_desktop)
+|Day7 (Teams Power Users )| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7013503805258403842-D-Py?utm_source=share&utm_medium=member_desktop)
  
  
  
