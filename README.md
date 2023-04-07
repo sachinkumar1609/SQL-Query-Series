@@ -12,7 +12,9 @@
 |Day5 (Duplicated Job Listing) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7012800180013936640-Q5CD?utm_source=share&utm_medium=member_desktop)
 |Day6 (Average Post Hiatus ) |[Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7013144746709671936-iI4q?utm_source=share&utm_medium=member_desktop)
 |Day7 (Teams Power Users )| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7013503805258403842-D-Py?utm_source=share&utm_medium=member_desktop)
- 
+|Day8 (Cities with Complete Trade) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7013870147476074499-v5co?utm_source=share&utm_medium=member_desktop)
+|Day9 (Average Stars ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7014184321053782016-5j-M?utm_source=share&utm_medium=member_desktop)
+|Day10 (App Click Through Rate) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7015316830126772224-uHA4?utm_source=share&utm_medium=member_desktop)
  
  
  ![Fintech Startup Question](https://user-images.githubusercontent.com/103982094/228803165-415ff305-d8d7-49e2-ba93-1359bf69c74f.png)
