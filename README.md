@@ -15,6 +15,16 @@
 |Day8 (Cities with Complete Trade) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7013870147476074499-v5co?utm_source=share&utm_medium=member_desktop)
 |Day9 (Average Stars ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7014184321053782016-5j-M?utm_source=share&utm_medium=member_desktop)
 |Day10 (App Click Through Rate) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7015316830126772224-uHA4?utm_source=share&utm_medium=member_desktop)
+|Day11 (Second Day Confirmation) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7015701361149276160-w5QL?utm_source=share&utm_medium=member_desktop)
+|Day12 (JP Morgan Credit Card )| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_creditcards-60daysofcodechallenge-60daysofsql-activity-7016058427185508352-wbXh?utm_source=share&utm_medium=member_desktop)
+|Day13 (Pharmacy Analytics Part-1) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_pharmacy-query-60daysofcodechallenge-activity-7016405090823475200-axKf?utm_source=share&utm_medium=member_desktop)
+|Day14 (Pharmacy Analytics Part-2) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7016787494641831937-18nm?utm_source=share&utm_medium=member_desktop)
+|Day15 (Department Top Three Salaries) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7017133984249737216-7qjF?utm_source=share&utm_medium=member_desktop)
+ 
+ 
+ 
+ 
+ 
  
  
  ![Fintech Startup Question](https://user-images.githubusercontent.com/103982094/228803165-415ff305-d8d7-49e2-ba93-1359bf69c74f.png)
