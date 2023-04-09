@@ -20,10 +20,11 @@
 |Day13 (Pharmacy Analytics Part-1) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_pharmacy-query-60daysofcodechallenge-activity-7016405090823475200-axKf?utm_source=share&utm_medium=member_desktop)
 |Day14 (Pharmacy Analytics Part-2) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7016787494641831937-18nm?utm_source=share&utm_medium=member_desktop)
 |Day15 (Department Top Three Salaries) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7017133984249737216-7qjF?utm_source=share&utm_medium=member_desktop)
- 
- 
- 
- 
+|Day16 (Customers Who Never Orders ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7017499093467869185-KGFS?utm_source=share&utm_medium=member_desktop) 
+|Day17 (Olympics Gold Medal ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7017853815223652352-Dmuk?utm_source=share&utm_medium=member_desktop)
+|Day18 (Business Holidays ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7018599839856795648-NhZ6?utm_source=share&utm_medium=member_desktop)
+|Day19 (Duplicated Entry ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_github-sachinkumar1609sql-portfolio-project-activity-7019294771617640448-Rjjk?utm_source=share&utm_medium=member_desktop)
+|Day20 (Pharmacy Analytics Part-3) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7020019772687794176-_jkO?utm_source=share&utm_medium=member_desktop)
  
  
  
