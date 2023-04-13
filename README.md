@@ -25,7 +25,13 @@
 |Day18 (Business Holidays ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7018599839856795648-NhZ6?utm_source=share&utm_medium=member_desktop)
 |Day19 (Duplicated Entry ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_github-sachinkumar1609sql-portfolio-project-activity-7019294771617640448-Rjjk?utm_source=share&utm_medium=member_desktop)
 |Day20 (Pharmacy Analytics Part-3) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7020019772687794176-_jkO?utm_source=share&utm_medium=member_desktop)
- 
+|Day21 (Patient Support Analysis Part-1) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_sunday-query-60daysofcodechallenge-activity-7020268213498195968-SVYk?utm_source=share&utm_medium=member_desktop)
+|Day22 (Patient Support Analysis Part-2) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_pharmacy-query-60daysofcodechallenge-activity-7021097410462388224-hmIp?utm_source=share&utm_medium=member_desktop)
+|Day23 ( Zomato SQL Queries )  | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_sql-project-on-zomato-analytics-activity-7022917128999550976-UZQu?utm_source=share&utm_medium=member_desktop)
+|Day24 ( Not Null ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7023660911110369280-sSrX?utm_source=share&utm_medium=member_desktop)
+|Day25 ( Finding User Purchase ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7025828273435652096-72rt?utm_source=share&utm_medium=member_desktop)
+
+
  
  
  ![Fintech Startup Question](https://user-images.githubusercontent.com/103982094/228803165-415ff305-d8d7-49e2-ba93-1359bf69c74f.png)
