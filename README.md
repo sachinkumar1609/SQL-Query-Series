@@ -30,6 +30,14 @@
 |Day23 ( Zomato SQL Queries )  | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_sql-project-on-zomato-analytics-activity-7022917128999550976-UZQu?utm_source=share&utm_medium=member_desktop)
 |Day24 ( Not Null ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7023660911110369280-sSrX?utm_source=share&utm_medium=member_desktop)
 |Day25 ( Finding User Purchase ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7025828273435652096-72rt?utm_source=share&utm_medium=member_desktop)
+|Day26 ( Employees Earning More Than Their Managers ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7026197438151438337-0mc1?utm_source=share&utm_medium=member_desktop)
+|Day27 ( Customers Without Orders ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_60daysofcodechallenge-60daysofsql-30daysofsql-activity-7026554900746493952-Te_h?utm_source=share&utm_medium=member_desktop)
+|Day28 ( Olympics Gold Medal ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_sql-queries-activity-7030180159366311936-6L-H?utm_source=share&utm_medium=member_desktop)
+|Day29 ( FinTech Startup ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_sqlqueries-100daysofcodechallenge-dataanalytics-activity-7047109587413393409-7Far?utm_source=share&utm_medium=member_desktop)
+|Day30 ( 3 Topping Pizza ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_30daysofsql-data-datascience-activity-7050478324095041536-CKNl?utm_source=share&utm_medium=member_desktop)
+
+
+
 
 
  
